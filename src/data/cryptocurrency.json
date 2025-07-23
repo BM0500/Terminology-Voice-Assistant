@@ -1,0 +1,994 @@
+[
+  {
+    "id": 1,
+    "term": "Blockchain",
+    "definition": "区块链技术，一种分布式账本技术，通过密码学方式保证数据的安全性和不可篡改性",
+    "category": "技术",
+    "pronunciation": "/ˈblɑkˌtʃeɪn/",
+    "example": "Blockchain technology ensures secure and transparent transactions.",
+    "difficulty": "中级",
+    "tags": [
+      "分布式",
+      "安全"
+    ]
+  },
+  {
+    "id": 2,
+    "term": "Bitcoin",
+    "definition": "比特币，第一个也是最知名的加密货币，基于区块链技术的数字货币",
+    "category": "货币",
+    "pronunciation": "/ˈbɪtˌkɔɪn/",
+    "example": "Bitcoin is the first and most well-known cryptocurrency.",
+    "difficulty": "初级",
+    "tags": [
+      "数字货币",
+      "点对点"
+    ]
+  },
+  {
+    "id": 3,
+    "term": "Ethereum",
+    "definition": "以太坊，支持智能合约和去中心化应用的区块链平台",
+    "category": "平台",
+    "pronunciation": "/ɪˈθɪriəm/",
+    "example": "Ethereum enables smart contracts and decentralized applications.",
+    "difficulty": "中级",
+    "tags": [
+      "智能合约",
+      "去中心化应用"
+    ]
+  },
+  {
+    "id": 4,
+    "term": "Smart Contract",
+    "definition": "智能合约，自动执行合约条款的计算机程序，无需第三方干预",
+    "category": "技术",
+    "pronunciation": "/smɑrt ˈkɑnˌtrækt/",
+    "example": "Smart contracts automatically execute when conditions are met.",
+    "difficulty": "高级",
+    "tags": [
+      "自动化",
+      "可编程"
+    ]
+  },
+  {
+    "id": 5,
+    "term": "DeFi",
+    "definition": "去中心化金融，基于区块链技术提供金融服务，无需传统金融中介",
+    "category": "金融",
+    "pronunciation": "/diˈfaɪ/",
+    "example": "DeFi protocols offer financial services without traditional intermediaries.",
+    "difficulty": "高级",
+    "tags": [
+      "去中心化",
+      "金融服务"
+    ]
+  },
+  {
+    "id": 6,
+    "term": "NFT",
+    "definition": "非同质化代币，代表区块链上独特数字资产的加密代币",
+    "category": "代币",
+    "pronunciation": "/ɛn ɛf ti/",
+    "example": "NFTs represent unique digital assets on the blockchain.",
+    "difficulty": "中级",
+    "tags": [
+      "数字资产",
+      "独特性"
+    ]
+  },
+  {
+    "id": 7,
+    "term": "Wallet",
+    "definition": "加密钱包，存储私钥并管理数字资产的软件或硬件工具",
+    "category": "存储",
+    "pronunciation": "/ˈwɔlɪt/",
+    "example": "A crypto wallet stores your private keys and manages your digital assets.",
+    "difficulty": "初级",
+    "tags": [
+      "存储",
+      "私钥"
+    ]
+  },
+  {
+    "id": 8,
+    "term": "Mining",
+    "definition": "挖矿，通过解决复杂数学问题来验证交易并获得奖励的过程",
+    "category": "过程",
+    "pronunciation": "/ˈmaɪnɪŋ/",
+    "example": "Mining involves solving complex mathematical problems to validate transactions.",
+    "difficulty": "中级",
+    "tags": [
+      "验证",
+      "工作量证明"
+    ]
+  },
+  {
+    "id": 9,
+    "term": "Staking",
+    "definition": "质押，通过持有和验证交易来获得奖励的权益证明机制",
+    "category": "过程",
+    "pronunciation": "/ˈsteɪkɪŋ/",
+    "example": "Staking allows users to earn rewards by holding and validating transactions.",
+    "difficulty": "中级",
+    "tags": [
+      "权益证明",
+      "奖励"
+    ]
+  },
+  {
+    "id": 10,
+    "term": "Hash",
+    "definition": "哈希值，通过哈希函数生成的固定长度字符串，用于标识区块",
+    "category": "技术",
+    "pronunciation": "/hæʃ/",
+    "example": "Each block contains a unique hash that identifies it on the blockchain.",
+    "difficulty": "高级",
+    "tags": [
+      "密码学",
+      "标识"
+    ]
+  },
+  {
+    "id": 11,
+    "term": "Decentralized Exchange",
+    "definition": "去中心化交易所，允许用户无需中央机构直接交易加密货币的平台",
+    "category": "平台",
+    "pronunciation": "/diˈsɛntrəˌlaɪzd ɪksˈtʃeɪndʒ/",
+    "example": "DEXs allow users to trade cryptocurrencies without intermediaries.",
+    "difficulty": "高级",
+    "tags": [
+      "交易",
+      "点对点"
+    ]
+  },
+  {
+    "id": 12,
+    "term": "Yield Farming",
+    "definition": "流动性挖矿，通过提供流动性获得代币奖励的DeFi策略",
+    "category": "策略",
+    "pronunciation": "/jild ˈfɑrmɪŋ/",
+    "example": "Yield farming involves providing liquidity to earn token rewards.",
+    "difficulty": "高级",
+    "tags": [
+      "流动性",
+      "奖励"
+    ]
+  },
+  {
+    "id": 13,
+    "term": "Gas Fee",
+    "definition": "燃料费，在以太坊网络上处理交易时支付给矿工的费用",
+    "category": "费用",
+    "pronunciation": "/gæs fi/",
+    "example": "Gas fees are paid to miners for processing transactions on Ethereum.",
+    "difficulty": "中级",
+    "tags": [
+      "交易成本",
+      "以太坊"
+    ]
+  },
+  {
+    "id": 14,
+    "term": "Fork",
+    "definition": "分叉，区块链协议的改变，可能导致与原链的永久分离",
+    "category": "技术",
+    "pronunciation": "/fɔrk/",
+    "example": "A hard fork creates a permanent divergence from the original blockchain.",
+    "difficulty": "高级",
+    "tags": [
+      "协议变更",
+      "升级"
+    ]
+  },
+  {
+    "id": 15,
+    "term": "Consensus",
+    "definition": "共识，确保所有网络参与者对区块链状态达成一致的机制",
+    "category": "机制",
+    "pronunciation": "/kənˈsɛnsəs/",
+    "example": "Consensus mechanisms ensure all network participants agree on the blockchain state.",
+    "difficulty": "高级",
+    "tags": [
+      "一致性",
+      "验证"
+    ]
+  },
+  {
+    "id": 16,
+    "term": "Altcoin",
+    "definition": "山寨币，除比特币以外的其他加密货币的统称",
+    "category": "货币",
+    "pronunciation": "/ˈɔltˌkɔɪn/",
+    "example": "Altcoins are alternative cryptocurrencies to Bitcoin.",
+    "difficulty": "初级",
+    "tags": [
+      "替代币",
+      "加密货币"
+    ]
+  },
+  {
+    "id": 17,
+    "term": "HODL",
+    "definition": "长期持有，一种长期持有加密货币而不出售的投资策略",
+    "category": "策略",
+    "pronunciation": "/ˈhoʊdəl/",
+    "example": "HODL is a strategy of holding cryptocurrency for the long term.",
+    "difficulty": "初级",
+    "tags": [
+      "投资",
+      "长期"
+    ]
+  },
+  {
+    "id": 18,
+    "term": "Liquidity Pool",
+    "definition": "流动性池，为去中心化交易所提供自动化交易的资金池",
+    "category": "机制",
+    "pronunciation": "/lɪˈkwɪdəti pul/",
+    "example": "Liquidity pools enable automated trading on decentralized exchanges.",
+    "difficulty": "高级",
+    "tags": [
+      "自动化做市",
+      "交易"
+    ]
+  },
+  {
+    "id": 19,
+    "term": "Web3",
+    "definition": "第三代互联网，基于区块链技术构建的去中心化互联网",
+    "category": "概念",
+    "pronunciation": "/wɛb θri/",
+    "example": "Web3 represents a decentralized internet built on blockchain technology.",
+    "difficulty": "中级",
+    "tags": [
+      "去中心化网络",
+      "区块链"
+    ]
+  },
+  {
+    "id": 20,
+    "term": "DAO",
+    "definition": "去中心化自治组织，由智能合约和代币持有者治理的组织",
+    "category": "组织",
+    "pronunciation": "/daʊ/",
+    "example": "DAOs are organizations governed by smart contracts and token holders.",
+    "difficulty": "高级",
+    "tags": [
+      "治理",
+      "去中心化"
+    ]
+  },
+  {
+    "id": 21,
+    "term": "Distributed Ledger Technology (DLT)",
+    "definition": "分布式账本技术",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Distributed Ledger Technology (DLT) is an important concept in cryptocurrency.",
+    "difficulty": "初级",
+    "tags": [
+      "基础概念"
+    ]
+  },
+  {
+    "id": 22,
+    "term": "Cryptocurrency",
+    "definition": "加密货币",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Cryptocurrency is an important concept in cryptocurrency.",
+    "difficulty": "初级",
+    "tags": [
+      "基础概念"
+    ]
+  },
+  {
+    "id": 23,
+    "term": "Decentralization",
+    "definition": "去中心化",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Decentralization is an important concept in cryptocurrency.",
+    "difficulty": "初级",
+    "tags": [
+      "基础概念"
+    ]
+  },
+  {
+    "id": 24,
+    "term": "Private Key",
+    "definition": "私钥",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Private Key is an important concept in cryptocurrency.",
+    "difficulty": "初级",
+    "tags": [
+      "基础概念"
+    ]
+  },
+  {
+    "id": 25,
+    "term": "Public Key",
+    "definition": "公钥",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Public Key is an important concept in cryptocurrency.",
+    "difficulty": "初级",
+    "tags": [
+      "基础概念"
+    ]
+  },
+  {
+    "id": 26,
+    "term": "Proof-of-Work (PoW)",
+    "definition": "工作量证明",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Proof-of-Work (PoW) is an important concept in cryptocurrency.",
+    "difficulty": "初级",
+    "tags": [
+      "基础概念"
+    ]
+  },
+  {
+    "id": 27,
+    "term": "Exchange",
+    "definition": "交易所",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Exchange is an important concept in cryptocurrency.",
+    "difficulty": "中级",
+    "tags": [
+      "交易合约"
+    ]
+  },
+  {
+    "id": 28,
+    "term": "Centralized Exchange (CEX)",
+    "definition": "中心化交易所",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Centralized Exchange (CEX) is an important concept in cryptocurrency.",
+    "difficulty": "中级",
+    "tags": [
+      "交易合约"
+    ]
+  },
+  {
+    "id": 29,
+    "term": "Decentralized Exchange (DEX)",
+    "definition": "去中心化交易所",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Decentralized Exchange (DEX) is an important concept in cryptocurrency.",
+    "difficulty": "中级",
+    "tags": [
+      "交易合约"
+    ]
+  },
+  {
+    "id": 30,
+    "term": "Stablecoin",
+    "definition": "稳定币",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Stablecoin is an important concept in cryptocurrency.",
+    "difficulty": "中级",
+    "tags": [
+      "交易合约"
+    ]
+  },
+  {
+    "id": 31,
+    "term": "Leverage Trading",
+    "definition": "杠杆交易",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Leverage Trading is an important concept in cryptocurrency.",
+    "difficulty": "中级",
+    "tags": [
+      "交易合约"
+    ]
+  },
+  {
+    "id": 32,
+    "term": "Perpetual Contract",
+    "definition": "永续合约",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Perpetual Contract is an important concept in cryptocurrency.",
+    "difficulty": "中级",
+    "tags": [
+      "交易合约"
+    ]
+  },
+  {
+    "id": 33,
+    "term": "Order Book",
+    "definition": "订单簿",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Order Book is an important concept in cryptocurrency.",
+    "difficulty": "中级",
+    "tags": [
+      "交易合约"
+    ]
+  },
+  {
+    "id": 34,
+    "term": "Web3/Web 3.0",
+    "definition": "下一代互联网",
+    "category": "生态",
+    "pronunciation": "",
+    "example": "Web3/Web 3.0 is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "Web3生态"
+    ]
+  },
+  {
+    "id": 35,
+    "term": "DeFi (Decentralized Finance)",
+    "definition": "去中心化金融",
+    "category": "生态",
+    "pronunciation": "",
+    "example": "DeFi (Decentralized Finance) is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "Web3生态"
+    ]
+  },
+  {
+    "id": 36,
+    "term": "NFT (Non-Fungible Token)",
+    "definition": "非同质化代币",
+    "category": "生态",
+    "pronunciation": "",
+    "example": "NFT (Non-Fungible Token) is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "Web3生态"
+    ]
+  },
+  {
+    "id": 37,
+    "term": "DAO (Decentralized Autonomous Organization)",
+    "definition": "去中心化自治组织",
+    "category": "生态",
+    "pronunciation": "",
+    "example": "DAO (Decentralized Autonomous Organization) is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "Web3生态"
+    ]
+  },
+  {
+    "id": 38,
+    "term": "dApp (decentralized Application)",
+    "definition": "去中心化应用",
+    "category": "生态",
+    "pronunciation": "",
+    "example": "dApp (decentralized Application) is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "Web3生态"
+    ]
+  },
+  {
+    "id": 39,
+    "term": "Oracle",
+    "definition": "预言机",
+    "category": "生态",
+    "pronunciation": "",
+    "example": "Oracle is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "Web3生态"
+    ]
+  },
+  {
+    "id": 40,
+    "term": "Tokenomics",
+    "definition": "代币经济学",
+    "category": "生态",
+    "pronunciation": "",
+    "example": "Tokenomics is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "Web3生态"
+    ]
+  },
+  {
+    "id": 41,
+    "term": "Peer-to-Peer (P2P)",
+    "definition": "点对点网络",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Peer-to-Peer (P2P) is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币共识"
+    ]
+  },
+  {
+    "id": 42,
+    "term": "Double-Spending",
+    "definition": "双花攻击",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Double-Spending is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币共识"
+    ]
+  },
+  {
+    "id": 43,
+    "term": "Longest Chain Rule",
+    "definition": "最长链规则",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Longest Chain Rule is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币共识"
+    ]
+  },
+  {
+    "id": 44,
+    "term": "One-CPU-One-Vote",
+    "definition": "一CPU一票机制",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "One-CPU-One-Vote is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币共识"
+    ]
+  },
+  {
+    "id": 45,
+    "term": "UTXO (Unspent Transaction Output)",
+    "definition": "未花费交易输出",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "UTXO (Unspent Transaction Output) is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币交易"
+    ]
+  },
+  {
+    "id": 46,
+    "term": "Input/Output",
+    "definition": "交易输入/输出",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Input/Output is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币交易"
+    ]
+  },
+  {
+    "id": 47,
+    "term": "Digital Signature",
+    "definition": "数字签名",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Digital Signature is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币交易"
+    ]
+  },
+  {
+    "id": 48,
+    "term": "Coinbase Transaction",
+    "definition": "创币交易",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Coinbase Transaction is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币交易"
+    ]
+  },
+  {
+    "id": 49,
+    "term": "Merkle Tree",
+    "definition": "默克尔树",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Merkle Tree is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币交易"
+    ]
+  },
+  {
+    "id": 50,
+    "term": "Merkle Root",
+    "definition": "默克尔根",
+    "category": "交易",
+    "pronunciation": "",
+    "example": "Merkle Root is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币交易"
+    ]
+  },
+  {
+    "id": 51,
+    "term": "Full Node",
+    "definition": "全节点",
+    "category": "网络",
+    "pronunciation": "",
+    "example": "Full Node is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币网络"
+    ]
+  },
+  {
+    "id": 52,
+    "term": "Light Node/SPV Client",
+    "definition": "轻节点",
+    "category": "网络",
+    "pronunciation": "",
+    "example": "Light Node/SPV Client is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币网络"
+    ]
+  },
+  {
+    "id": 53,
+    "term": "Simplified Payment Verification (SPV)",
+    "definition": "简化支付验证",
+    "category": "网络",
+    "pronunciation": "",
+    "example": "Simplified Payment Verification (SPV) is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币网络"
+    ]
+  },
+  {
+    "id": 54,
+    "term": "Block Header",
+    "definition": "区块头",
+    "category": "网络",
+    "pronunciation": "",
+    "example": "Block Header is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币网络"
+    ]
+  },
+  {
+    "id": 55,
+    "term": "Confirmation",
+    "definition": "交易确认数",
+    "category": "网络",
+    "pronunciation": "",
+    "example": "Confirmation is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "比特币网络"
+    ]
+  },
+  {
+    "id": 56,
+    "term": "SHA-256",
+    "definition": "比特币哈希算法",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "SHA-256 is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "技术实现"
+    ]
+  },
+  {
+    "id": 57,
+    "term": "Nonce",
+    "definition": "随机数",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Nonce is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "技术实现"
+    ]
+  },
+  {
+    "id": 58,
+    "term": "Difficulty Target",
+    "definition": "难度目标值",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Difficulty Target is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "技术实现"
+    ]
+  },
+  {
+    "id": 59,
+    "term": "Block Reward",
+    "definition": "区块奖励",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Block Reward is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "技术实现"
+    ]
+  },
+  {
+    "id": 60,
+    "term": "Halving",
+    "definition": "减半机制",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Halving is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "技术实现"
+    ]
+  },
+  {
+    "id": 61,
+    "term": "Hard Cap",
+    "definition": "总量上限（2100万BTC）",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Hard Cap is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "技术实现"
+    ]
+  },
+  {
+    "id": 62,
+    "term": "Timestamp Server",
+    "definition": "时间戳服务器",
+    "category": "技术",
+    "pronunciation": "",
+    "example": "Timestamp Server is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "技术实现"
+    ]
+  },
+  {
+    "id": 63,
+    "term": "Cryptographic Proof",
+    "definition": "密码学证明",
+    "category": "安全",
+    "pronunciation": "",
+    "example": "Cryptographic Proof is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "安全隐私"
+    ]
+  },
+  {
+    "id": 64,
+    "term": "Immutability",
+    "definition": "不可篡改性",
+    "category": "安全",
+    "pronunciation": "",
+    "example": "Immutability is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "安全隐私"
+    ]
+  },
+  {
+    "id": 65,
+    "term": "Address Reuse",
+    "definition": "地址复用",
+    "category": "安全",
+    "pronunciation": "",
+    "example": "Address Reuse is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "安全隐私"
+    ]
+  },
+  {
+    "id": 66,
+    "term": "Zero-Knowledge Proof (ZKP)",
+    "definition": "零知识证明",
+    "category": "安全",
+    "pronunciation": "",
+    "example": "Zero-Knowledge Proof (ZKP) is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "安全隐私"
+    ]
+  },
+  {
+    "id": 67,
+    "term": "CoinJoin",
+    "definition": "混币协议",
+    "category": "安全",
+    "pronunciation": "",
+    "example": "CoinJoin is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "安全隐私"
+    ]
+  },
+  {
+    "id": 68,
+    "term": "Binance Academy",
+    "definition": "币安学习平台",
+    "category": "资源",
+    "pronunciation": "",
+    "example": "Binance Academy is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "学习资源"
+    ]
+  },
+  {
+    "id": 69,
+    "term": "CoinMarketCap",
+    "definition": "行情数据网站",
+    "category": "资源",
+    "pronunciation": "",
+    "example": "CoinMarketCap is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "学习资源"
+    ]
+  },
+  {
+    "id": 70,
+    "term": "Web3 University",
+    "definition": "Web3教育平台",
+    "category": "资源",
+    "pronunciation": "",
+    "example": "Web3 University is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "学习资源"
+    ]
+  },
+  {
+    "id": 71,
+    "term": "Buildspace",
+    "definition": "开发者学习平台",
+    "category": "资源",
+    "pronunciation": "",
+    "example": "Buildspace is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "学习资源"
+    ]
+  },
+  {
+    "id": 72,
+    "term": "a16z Crypto Canon",
+    "definition": "加密经典文献库",
+    "category": "资源",
+    "pronunciation": "",
+    "example": "a16z Crypto Canon is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "学习资源"
+    ]
+  },
+  {
+    "id": 73,
+    "term": "dYdX",
+    "definition": "去中心化合约平台",
+    "category": "资源",
+    "pronunciation": "",
+    "example": "dYdX is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "学习资源"
+    ]
+  },
+  {
+    "id": 74,
+    "term": "Ethereum White Paper",
+    "definition": "以太坊白皮书",
+    "category": "资源",
+    "pronunciation": "",
+    "example": "Ethereum White Paper is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "学习资源"
+    ]
+  },
+  {
+    "id": 75,
+    "term": "Trustless System",
+    "definition": "无信任系统",
+    "category": "概念",
+    "pronunciation": "",
+    "example": "Trustless System is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "关键短语"
+    ]
+  },
+  {
+    "id": 76,
+    "term": "Hashing Power",
+    "definition": "算力",
+    "category": "概念",
+    "pronunciation": "",
+    "example": "Hashing Power is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "关键短语"
+    ]
+  },
+  {
+    "id": 77,
+    "term": "Transaction Finality",
+    "definition": "交易终局性",
+    "category": "概念",
+    "pronunciation": "",
+    "example": "Transaction Finality is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "关键短语"
+    ]
+  },
+  {
+    "id": 78,
+    "term": "Inflation-Free Model",
+    "definition": "无通胀模型",
+    "category": "概念",
+    "pronunciation": "",
+    "example": "Inflation-Free Model is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "关键短语"
+    ]
+  },
+  {
+    "id": 79,
+    "term": "CPU Time and Electricity",
+    "definition": "CPU时间与电力",
+    "category": "概念",
+    "pronunciation": "",
+    "example": "CPU Time and Electricity is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "关键短语"
+    ]
+  },
+  {
+    "id": 80,
+    "term": "Chain of Ownership",
+    "definition": "所有权链",
+    "category": "概念",
+    "pronunciation": "",
+    "example": "Chain of Ownership is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "关键短语"
+    ]
+  },
+  {
+    "id": 81,
+    "term": "Best Effort Broadcast",
+    "definition": "尽力广播",
+    "category": "概念",
+    "pronunciation": "",
+    "example": "Best Effort Broadcast is an important concept in cryptocurrency.",
+    "difficulty": "高级",
+    "tags": [
+      "关键短语"
+    ]
+  }
+]

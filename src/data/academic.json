@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "term": "Abstract",
+    "definition": "摘要，学术论文开头的简要概述，总结研究目的、方法和结果",
+    "category": "结构",
+    "pronunciation": "/ˈæbˌstrækt/",
+    "example": "The abstract provides a concise summary of the research paper.",
+    "difficulty": "初级",
+    "tags": ["总结", "概述"]
+  },
+  {
+    "id": 2,
+    "term": "Hypothesis",
+    "definition": "假设，基于现有知识提出的可验证的预测或解释",
+    "category": "方法论",
+    "pronunciation": "/haɪˈpɑθəsɪs/",
+    "example": "The hypothesis was tested through controlled experiments.",
+    "difficulty": "中级",
+    "tags": ["理论", "预测"]
+  },
+  {
+    "id": 3,
+    "term": "Methodology",
+    "definition": "方法论，研究中使用的系统性方法和程序",
+    "category": "研究",
+    "pronunciation": "/ˌmɛθəˈdɑlədʒi/",
+    "example": "The methodology section describes how the research was conducted.",
+    "difficulty": "中级",
+    "tags": ["方法", "系统性"]
+  },
+  {
+    "id": 4,
+    "term": "Literature Review",
+    "definition": "文献综述，对特定主题相关研究的系统性回顾和分析",
+    "category": "研究",
+    "pronunciation": "/ˈlɪtərətʃər rɪˈvju/",
+    "example": "The literature review examines previous studies on the topic.",
+    "difficulty": "中级",
+    "tags": ["背景", "前期工作"]
+  },
+  {
+    "id": 5,
+    "term": "Peer Review",
+    "definition": "同行评议，由同领域专家评估学术工作质量的过程",
+    "category": "过程",
+    "pronunciation": "/pɪr rɪˈvju/",
+    "example": "Peer review ensures the quality and validity of academic publications.",
+    "difficulty": "中级",
+    "tags": ["评估", "质量控制"]
+  },
+  {
+    "id": 6,
+    "term": "Citation",
+    "definition": "引用，在学术写作中标注信息来源的方式",
+    "category": "参考",
+    "pronunciation": "/saɪˈteɪʃən/",
+    "example": "Proper citation is essential to avoid plagiarism.",
+    "difficulty": "初级",
+    "tags": ["参考", "归属"]
+  },
+  {
+    "id": 7,
+    "term": "Bibliography",
+    "definition": "参考文献，研究中使用的所有资料来源的完整列表",
+    "category": "参考",
+    "pronunciation": "/ˌbɪbliˈɑgrəfi/",
+    "example": "The bibliography lists all sources used in the research.",
+    "difficulty": "中级",
+    "tags": ["来源", "参考资料"]
+  },
+  {
+    "id": 8,
+    "term": "Empirical",
+    "definition": "实证的，基于观察和测量现象的研究方法",
+    "category": "方法",
+    "pronunciation": "/ɪmˈpɪrɪkəl/",
+    "example": "Empirical research is based on observed and measured phenomena.",
+    "difficulty": "高级",
+    "tags": ["基于证据", "观察性"]
+  },
+  {
+    "id": 9,
+    "term": "Qualitative",
+    "definition": "定性的，关注理解意义和体验的研究方法",
+    "category": "方法论",
+    "pronunciation": "/ˈkwɑləˌteɪtɪv/",
+    "example": "Qualitative research focuses on understanding meanings and experiences.",
+    "difficulty": "中级",
+    "tags": ["描述性", "解释性"]
+  },
+  {
+    "id": 10,
+    "term": "Quantitative",
+    "definition": "定量的，使用统计方法分析数值数据的研究方法",
+    "category": "方法论",
+    "pronunciation": "/ˈkwɑntəˌteɪtɪv/",
+    "example": "Quantitative analysis uses statistical methods to analyze numerical data.",
+    "difficulty": "中级",
+    "tags": ["数值", "统计"]
+  },
+  {
+    "id": 11,
+    "term": "Thesis",
+    "definition": "论文，为获得研究生学位而进行的原创研究报告",
+    "category": "文档",
+    "pronunciation": "/ˈθisɪs/",
+    "example": "A thesis presents original research for a graduate degree.",
+    "difficulty": "初级",
+    "tags": ["研究论文", "学术工作"]
+  },
+  {
+    "id": 12,
+    "term": "Dissertation",
+    "definition": "学位论文，完成博士学位所需的大型研究项目",
+    "category": "文档",
+    "pronunciation": "/ˌdɪsərˈteɪʃən/",
+    "example": "A dissertation is required for doctoral degree completion.",
+    "difficulty": "中级",
+    "tags": ["博士", "研究"]
+  },
+  {
+    "id": 13,
+    "term": "Plagiarism",
+    "definition": "抄袭，未经授权使用他人作品并声称为自己原创的行为",
+    "category": "伦理",
+    "pronunciation": "/ˈpleɪdʒəˌrɪzəm/",
+    "example": "Plagiarism is a serious violation of academic integrity.",
+    "difficulty": "中级",
+    "tags": ["学术不端", "伦理"]
+  },
+  {
+    "id": 14,
+    "term": "Correlation",
+    "definition": "相关性，两个或多个变量之间关系的统计度量",
+    "category": "统计",
+    "pronunciation": "/ˌkɔrəˈleɪʃən/",
+    "example": "The study found a strong correlation between the two variables.",
+    "difficulty": "中级",
+    "tags": ["关系", "统计"]
+  },
+  {
+    "id": 15,
+    "term": "Significance",
+    "definition": "显著性，表明研究结果不太可能由偶然因素造成的统计概念",
+    "category": "统计",
+    "pronunciation": "/sɪgˈnɪfɪkəns/",
+    "example": "Statistical significance indicates that results are unlikely due to chance.",
+    "difficulty": "高级",
+    "tags": ["统计", "有意义"]
+  },
+  {
+    "id": 16,
+    "term": "Sample Size",
+    "definition": "样本量，研究中包含的观察对象或数据点的数量",
+    "category": "方法论",
+    "pronunciation": "/ˈsæmpəl saɪz/",
+    "example": "A larger sample size generally increases the reliability of results.",
+    "difficulty": "中级",
+    "tags": ["研究设计", "统计"]
+  },
+  {
+    "id": 17,
+    "term": "Control Group",
+    "definition": "对照组，实验中不接受处理的参照组，用于比较",
+    "category": "方法论",
+    "pronunciation": "/kənˈtroʊl grup/",
+    "example": "The control group received no treatment for comparison purposes.",
+    "difficulty": "中级",
+    "tags": ["实验设计", "比较"]
+  },
+  {
+    "id": 18,
+    "term": "Variable",
+    "definition": "变量，研究中可以测量、操控或观察的因素",
+    "category": "研究",
+    "pronunciation": "/ˈvɛriəbəl/",
+    "example": "Independent variables are manipulated to observe their effect.",
+    "difficulty": "中级",
+    "tags": ["因素", "测量"]
+  },
+  {
+    "id": 19,
+    "term": "Validity",
+    "definition": "效度，测量工具或研究设计准确测量目标概念的程度",
+    "category": "质量",
+    "pronunciation": "/vəˈlɪdəti/",
+    "example": "Internal validity refers to the accuracy of causal inferences.",
+    "difficulty": "高级",
+    "tags": ["准确性", "测量"]
+  },
+  {
+    "id": 20,
+    "term": "Reliability",
+    "definition": "信度，测量结果的一致性和稳定性程度",
+    "category": "质量",
+    "pronunciation": "/rɪˌlaɪəˈbɪləti/",
+    "example": "Reliability measures the consistency of research findings.",
+    "difficulty": "高级",
+    "tags": ["一致性", "测量"]
+  }
+]

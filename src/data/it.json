@@ -1,0 +1,202 @@
+[
+  {
+    "id": "it-1",
+    "word": "Algorithm",
+    "definition": "算法",
+    "category": "programming",
+    "pronunciation": "/ˈælgəˌrɪðəm/",
+    "example": "The sorting algorithm improves data processing efficiency.",
+    "difficulty": "intermediate",
+    "tags": ["programming", "logic"]
+  },
+  {
+    "id": "it-2",
+    "word": "Database",
+    "definition": "数据库",
+    "category": "database",
+    "pronunciation": "/ˈdeɪtəˌbeɪs/",
+    "example": "The database stores all customer information.",
+    "difficulty": "beginner",
+    "tags": ["data", "storage"]
+  },
+  {
+    "id": "it-3",
+    "word": "API",
+    "definition": "应用程序编程接口",
+    "category": "programming",
+    "pronunciation": "/ˌeɪ pi ˈaɪ/",
+    "example": "The REST API allows different applications to communicate.",
+    "difficulty": "intermediate",
+    "tags": ["interface", "communication"]
+  },
+  {
+    "id": "it-4",
+    "word": "Cloud Computing",
+    "definition": "云计算",
+    "category": "infrastructure",
+    "pronunciation": "/klaʊd kəmˈpjutɪŋ/",
+    "example": "Cloud computing provides scalable computing resources.",
+    "difficulty": "intermediate",
+    "tags": ["cloud", "scalability"]
+  },
+  {
+    "id": "it-5",
+    "word": "Machine Learning",
+    "definition": "机器学习",
+    "category": "ai",
+    "pronunciation": "/məˈʃin ˈlɜrnɪŋ/",
+    "example": "Machine learning algorithms can predict user behavior.",
+    "difficulty": "advanced",
+    "tags": ["ai", "prediction"]
+  },
+  {
+    "id": "it-6",
+    "word": "Cybersecurity",
+    "definition": "网络安全",
+    "category": "security",
+    "pronunciation": "/ˈsaɪbərˌsɪkjʊrəti/",
+    "example": "Cybersecurity measures protect against digital threats.",
+    "difficulty": "intermediate",
+    "tags": ["security", "protection"]
+  },
+  {
+    "id": "it-7",
+    "word": "DevOps",
+    "definition": "开发运维",
+    "category": "methodology",
+    "pronunciation": "/ˈdɛvˌɑps/",
+    "example": "DevOps practices improve software delivery speed.",
+    "difficulty": "advanced",
+    "tags": ["development", "operations"]
+  },
+  {
+    "id": "it-8",
+    "word": "Frontend",
+    "definition": "前端",
+    "category": "web",
+    "pronunciation": "/ˈfrʌntˌɛnd/",
+    "example": "Frontend development focuses on user interface design.",
+    "difficulty": "beginner",
+    "tags": ["web", "ui"]
+  },
+  {
+    "id": "it-9",
+    "word": "Backend",
+    "definition": "后端",
+    "category": "web",
+    "pronunciation": "/ˈbækˌɛnd/",
+    "example": "Backend systems handle server-side logic and data.",
+    "difficulty": "beginner",
+    "tags": ["web", "server"]
+  },
+  {
+    "id": "it-10",
+    "word": "Framework",
+    "definition": "框架",
+    "category": "programming",
+    "pronunciation": "/ˈfreɪmˌwɜrk/",
+    "example": "React is a popular JavaScript framework for building UIs.",
+    "difficulty": "intermediate",
+    "tags": ["development", "structure"]
+  },
+  {
+    "id": "it-11",
+    "word": "Version Control",
+    "definition": "版本控制",
+    "category": "tools",
+    "pronunciation": "/ˈvɜrʒən kənˈtroʊl/",
+    "example": "Git is a distributed version control system.",
+    "difficulty": "intermediate",
+    "tags": ["git", "collaboration"]
+  },
+  {
+    "id": "it-12",
+    "word": "Microservices",
+    "definition": "微服务",
+    "category": "architecture",
+    "pronunciation": "/ˈmaɪkroʊˌsɜrvəsəz/",
+    "example": "Microservices architecture breaks applications into small services.",
+    "difficulty": "advanced",
+    "tags": ["architecture", "scalability"]
+  },
+  {
+    "id": "it-13",
+    "word": "Container",
+    "definition": "容器",
+    "category": "infrastructure",
+    "pronunciation": "/kənˈteɪnər/",
+    "example": "Docker containers package applications with their dependencies.",
+    "difficulty": "intermediate",
+    "tags": ["docker", "deployment"]
+  },
+  {
+    "id": "it-14",
+    "word": "Agile",
+    "definition": "敏捷开发",
+    "category": "methodology",
+    "pronunciation": "/ˈædʒəl/",
+    "example": "Agile methodology emphasizes iterative development.",
+    "difficulty": "intermediate",
+    "tags": ["methodology", "iterative"]
+  },
+  {
+    "id": "it-15",
+    "word": "Big Data",
+    "definition": "大数据",
+    "category": "data",
+    "pronunciation": "/bɪg ˈdeɪtə/",
+    "example": "Big data analytics reveals patterns in large datasets.",
+    "difficulty": "intermediate",
+    "tags": ["data", "analytics"]
+  },
+  {
+    "id": "it-16",
+    "word": "Blockchain",
+    "definition": "区块链",
+    "category": "technology",
+    "pronunciation": "/ˈblɑkˌtʃeɪn/",
+    "example": "Blockchain technology ensures secure and transparent transactions.",
+    "difficulty": "advanced",
+    "tags": ["security", "distributed"]
+  },
+  {
+    "id": "it-17",
+    "word": "IoT",
+    "definition": "物联网",
+    "category": "technology",
+    "pronunciation": "/ˌaɪ oʊ ˈti/",
+    "example": "IoT devices connect everyday objects to the internet.",
+    "difficulty": "intermediate",
+    "tags": ["connectivity", "sensors"]
+  },
+  {
+    "id": "it-18",
+    "word": "Artificial Intelligence",
+    "definition": "人工智能",
+    "category": "ai",
+    "pronunciation": "/ˌɑrtəˈfɪʃəl ɪnˈtɛlədʒəns/",
+    "example": "Artificial intelligence mimics human cognitive functions.",
+    "difficulty": "advanced",
+    "tags": ["ai", "cognition"]
+  },
+  {
+    "id": "it-19",
+    "word": "SQL",
+    "definition": "结构化查询语言",
+    "category": "database",
+    "pronunciation": "/ˌɛs kju ˈɛl/",
+    "example": "SQL is used to manage and query relational databases.",
+    "difficulty": "intermediate",
+    "tags": ["database", "query"]
+  },
+  {
+    "id": "it-20",
+    "word": "Responsive Design",
+    "definition": "响应式设计",
+    "category": "web",
+    "pronunciation": "/rɪˈspɑnsɪv dɪˈzaɪn/",
+    "example": "Responsive design ensures websites work on all device sizes.",
+    "difficulty": "intermediate",
+    "tags": ["web", "mobile"]
+  }
+]

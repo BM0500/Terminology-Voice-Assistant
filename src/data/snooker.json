@@ -1,0 +1,973 @@
+[
+  {
+    "id": "snooker-1",
+    "word": "World Snooker Championship",
+    "definition": "世界斯诺克锦标赛",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "tournament",
+      "professional"
+    ]
+  },
+  {
+    "id": "snooker-2",
+    "word": "Ranking Event",
+    "definition": "排名赛",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "tournament",
+      "ranking"
+    ]
+  },
+  {
+    "id": "snooker-3",
+    "word": "Non-Ranking Event",
+    "definition": "非排名赛",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "tournament"
+    ]
+  },
+  {
+    "id": "snooker-4",
+    "word": "Crucible Theatre",
+    "definition": "克鲁斯堡剧院",
+    "category": "competition",
+    "difficulty": "advanced",
+    "tags": [
+      "venue",
+      "championship"
+    ]
+  },
+  {
+    "id": "snooker-5",
+    "word": "Frame",
+    "definition": "局",
+    "category": "competition",
+    "difficulty": "beginner",
+    "tags": [
+      "basic",
+      "scoring"
+    ]
+  },
+  {
+    "id": "snooker-6",
+    "word": "Match",
+    "definition": "比赛",
+    "category": "competition",
+    "difficulty": "beginner",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "snooker-7",
+    "word": "Session",
+    "definition": "阶段",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "format"
+    ]
+  },
+  {
+    "id": "snooker-8",
+    "word": "Best of",
+    "definition": "局数制",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "format"
+    ]
+  },
+  {
+    "id": "snooker-9",
+    "word": "Century Break",
+    "definition": "世纪杆",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "scoring",
+      "achievement"
+    ]
+  },
+  {
+    "id": "snooker-10",
+    "word": "Maximum Break",
+    "definition": "满分147",
+    "category": "competition",
+    "difficulty": "advanced",
+    "tags": [
+      "scoring",
+      "perfect"
+    ]
+  },
+  {
+    "id": "snooker-11",
+    "word": "Clearance",
+    "definition": "清台",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique",
+      "scoring"
+    ]
+  },
+  {
+    "id": "snooker-12",
+    "word": "Cue",
+    "definition": "球杆",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "basic",
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-13",
+    "word": "Cue Tip",
+    "definition": "杆头",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment",
+      "maintenance"
+    ]
+  },
+  {
+    "id": "snooker-14",
+    "word": "Chalk",
+    "definition": "巧克",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment",
+      "basic"
+    ]
+  },
+  {
+    "id": "snooker-15",
+    "word": "Break-Off",
+    "definition": "开球",
+    "category": "technique",
+    "difficulty": "beginner",
+    "tags": [
+      "technique",
+      "basic"
+    ]
+  },
+  {
+    "id": "snooker-16",
+    "word": "Safety Shot",
+    "definition": "安全球",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique",
+      "strategy"
+    ]
+  },
+  {
+    "id": "snooker-17",
+    "word": "Snooker",
+    "definition": "斯诺克",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique",
+      "strategy"
+    ]
+  },
+  {
+    "id": "snooker-18",
+    "word": "Long Pot",
+    "definition": "长台",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique",
+      "difficulty"
+    ]
+  },
+  {
+    "id": "snooker-19",
+    "word": "Top Spin",
+    "definition": "上旋",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique",
+      "spin"
+    ]
+  },
+  {
+    "id": "snooker-20",
+    "word": "Back Spin",
+    "definition": "下旋",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique",
+      "spin"
+    ]
+  },
+  {
+    "id": "snooker-21",
+    "word": "Side Spin",
+    "definition": "侧旋",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique",
+      "spin"
+    ]
+  },
+  {
+    "id": "snooker-22",
+    "word": "Foul",
+    "definition": "犯规",
+    "category": "rules",
+    "difficulty": "beginner",
+    "tags": [
+      "rules",
+      "penalty"
+    ]
+  },
+  {
+    "id": "snooker-23",
+    "word": "Free Ball",
+    "definition": "自由球",
+    "category": "rules",
+    "difficulty": "intermediate",
+    "tags": [
+      "rules",
+      "advantage"
+    ]
+  },
+  {
+    "id": "snooker-24",
+    "word": "Touching Ball",
+    "definition": "贴球",
+    "category": "rules",
+    "difficulty": "intermediate",
+    "tags": [
+      "rules",
+      "position"
+    ]
+  },
+  {
+    "id": "snooker-25",
+    "word": "Three-Miss Rule",
+    "definition": "三次失误规则",
+    "category": "rules",
+    "difficulty": "advanced",
+    "tags": [
+      "rules",
+      "penalty"
+    ]
+  },
+  {
+    "id": "snooker-26",
+    "word": "Non - Ranking Event",
+    "definition": "非排名赛",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-27",
+    "word": "Qualifiers",
+    "definition": "资格赛",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-28",
+    "word": "Main Draw",
+    "definition": "正赛",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-29",
+    "word": "Knockout Format",
+    "definition": "淘汰赛制",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-30",
+    "word": "Round",
+    "definition": "轮次",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-31",
+    "word": "Seed",
+    "definition": "种子选手",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-32",
+    "word": "Wildcard",
+    "definition": "外卡选手",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-33",
+    "word": "Fluke",
+    "definition": "幸运球",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-34",
+    "word": "Pot",
+    "definition": "击球入袋",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-35",
+    "word": "Break",
+    "definition": "单杆得分",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-36",
+    "word": "High Break",
+    "definition": "最高单杆",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-37",
+    "word": "Prize Money",
+    "definition": "奖金",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-38",
+    "word": "Draw",
+    "definition": "抽签",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-39",
+    "word": "Table Conditions",
+    "definition": "球台条件",
+    "category": "competition",
+    "difficulty": "intermediate",
+    "tags": [
+      "competition"
+    ]
+  },
+  {
+    "id": "snooker-40",
+    "word": "Butt",
+    "definition": "杆尾",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-41",
+    "word": "Shaft",
+    "definition": "杆身",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-42",
+    "word": "Ferrule",
+    "definition": "铜箍",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-43",
+    "word": "Cue Extension",
+    "definition": "延长杆",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-44",
+    "word": "One - Piece Cue",
+    "definition": "一体杆",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-45",
+    "word": "Two - Piece Cue",
+    "definition": "两截杆",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-46",
+    "word": "Cue Weight",
+    "definition": "球杆重量",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-47",
+    "word": "Tip Hardness",
+    "definition": "皮头硬度",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-48",
+    "word": "Cue Case",
+    "definition": "球杆盒",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-49",
+    "word": "Cue Maintenance",
+    "definition": "球杆维护",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-50",
+    "word": "Slip",
+    "definition": "滑杆",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-51",
+    "word": "Cue Action",
+    "definition": "出杆动作",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-52",
+    "word": "Ash",
+    "definition": "白蜡木",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-53",
+    "word": "Maple",
+    "definition": "枫木",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-54",
+    "word": "Rosewood",
+    "definition": "玫瑰木",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-55",
+    "word": "Ebony",
+    "definition": "乌木",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-56",
+    "word": "Exotic Wood",
+    "definition": "异国木材",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-57",
+    "word": "Carbon Fibre",
+    "definition": "碳纤维",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-58",
+    "word": "Fibreglass",
+    "definition": "玻璃纤维",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-59",
+    "word": "Joint",
+    "definition": "接缝",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-60",
+    "word": "Inlay",
+    "definition": "镶嵌",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-61",
+    "word": "Splicing",
+    "definition": "拼接",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-62",
+    "word": "Lamination",
+    "definition": "层压",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-63",
+    "word": "Cue Crafting",
+    "definition": "球杆制作",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-64",
+    "word": "Cue Balance",
+    "definition": "球杆平衡",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-65",
+    "word": "Taper",
+    "definition": "锥度",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-66",
+    "word": "Varnish",
+    "definition": "清漆",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-67",
+    "word": "Cue Lathe",
+    "definition": "球杆车床",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-68",
+    "word": "Tip Shaping",
+    "definition": "皮头整形",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-69",
+    "word": "Tip Replacement",
+    "definition": "皮头更换",
+    "category": "equipment",
+    "difficulty": "beginner",
+    "tags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "snooker-70",
+    "word": "Break - Off",
+    "definition": "开球",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-71",
+    "word": "Rest Shot",
+    "definition": "架杆击球",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-72",
+    "word": "Stun Shot",
+    "definition": "定杆",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-73",
+    "word": "Screw Shot",
+    "definition": "回旋球",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-74",
+    "word": "Swerve Shot",
+    "definition": "弧线球",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-75",
+    "word": "Plant",
+    "definition": "组合球",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-76",
+    "word": "Double",
+    "definition": "双进",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-77",
+    "word": "Cannon",
+    "definition": "借力",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-78",
+    "word": "Positional Play",
+    "definition": "走位",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-79",
+    "word": "Pace Control",
+    "definition": "力度控制",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-80",
+    "word": "Angle Shot",
+    "definition": "角度球",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-81",
+    "word": "Run - Through",
+    "definition": "顺杆",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-82",
+    "word": "Cue Ball Control",
+    "definition": "白球控制",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-83",
+    "word": "Check Side",
+    "definition": "左侧旋",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-84",
+    "word": "Running Side",
+    "definition": "右侧旋",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-85",
+    "word": "Deep Screw",
+    "definition": "深度回旋",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-86",
+    "word": "Massé Shot",
+    "definition": "弧形杆",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-87",
+    "word": "Feather Shot",
+    "definition": "轻触球",
+    "category": "technique",
+    "difficulty": "intermediate",
+    "tags": [
+      "technique"
+    ]
+  },
+  {
+    "id": "snooker-88",
+    "word": "WPBSA",
+    "definition": "世界职业台球和斯诺克协会",
+    "category": "rules",
+    "difficulty": "advanced",
+    "tags": [
+      "rules"
+    ]
+  },
+  {
+    "id": "snooker-89",
+    "word": "Official Rules",
+    "definition": "官方规则",
+    "category": "rules",
+    "difficulty": "advanced",
+    "tags": [
+      "rules"
+    ]
+  },
+  {
+    "id": "snooker-90",
+    "word": "Scoring",
+    "definition": "计分",
+    "category": "rules",
+    "difficulty": "advanced",
+    "tags": [
+      "rules"
+    ]
+  },
+  {
+    "id": "snooker-91",
+    "word": "Alternate Shots",
+    "definition": "交替击球",
+    "category": "rules",
+    "difficulty": "advanced",
+    "tags": [
+      "rules"
+    ]
+  },
+  {
+    "id": "snooker-92",
+    "word": "Foul and Miss",
+    "definition": "犯规失误",
+    "category": "rules",
+    "difficulty": "advanced",
+    "tags": [
+      "rules"
+    ]
+  },
+  {
+    "id": "snooker-93",
+    "word": "Three - Miss Rule",
+    "definition": "三次失误规则",
+    "category": "rules",
+    "difficulty": "advanced",
+    "tags": [
+      "rules"
+    ]
+  },
+  {
+    "id": "snooker-94",
+    "word": "Push Shot",
+    "definition": "推杆犯规",
+    "category": "rules",
+    "difficulty": "advanced",
+    "tags": [
+      "rules"
+    ]
+  },
+  {
+    "id": "snooker-95",
+    "word": "Jump Shot",
+    "definition": "跳球犯规",
+    "category": "rules",
+    "difficulty": "advanced",
+    "tags": [
+      "rules"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "snooker": {
+    "id": "snooker",
+    "name": "斯诺克术语",
+    "description": "专业斯诺克比赛和技术术语",
+    "icon": "target",
+    "color": "#165DFF",
+    "subcategories": {
+      "competition": "比赛和赛事",
+      "equipment": "球杆和设备",
+      "technique": "击球技术",
+      "rules": "规则"
+    }
+  },
+  "medical": {
+    "id": "medical",
+    "name": "医疗术语",
+    "description": "医学专业术语和临床用语",
+    "icon": "heart-pulse",
+    "color": "#FF7D00",
+    "subcategories": {
+      "general": "通用医学",
+      "cardiology": "心脏病学",
+      "neurology": "神经学",
+      "oncology": "肿瘤学",
+      "pediatrics": "儿科学",
+      "radiology": "放射学",
+      "pathology": "病理学",
+      "pharmacology": "药理学",
+      "anesthesiology": "麻醉学",
+      "dermatology": "皮肤病学",
+      "orthopedics": "骨科学",
+      "psychiatry": "精神病学",
+      "emergency": "急诊医学",
+      "endocrinology": "内分泌学",
+      "pulmonology": "肺病学"
+    }
+  },
+  "it": {
+    "id": "it",
+    "name": "IT术语",
+    "description": "信息技术和计算机科学术语",
+    "icon": "code",
+    "color": "#00C896",
+    "subcategories": {
+      "programming": "编程开发",
+      "database": "数据库",
+      "web": "Web开发",
+      "security": "网络安全",
+      "ai": "人工智能",
+      "infrastructure": "基础设施",
+      "methodology": "开发方法",
+      "tools": "开发工具",
+      "architecture": "系统架构",
+      "data": "数据科学",
+      "technology": "新兴技术"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "medical-1",
+    "word": "Hypertension",
+    "definition": "高血压",
+    "category": "cardiology",
+    "pronunciation": "/ˌhaɪpərˈtɛnʃən/",
+    "example": "The patient was diagnosed with hypertension.",
+    "difficulty": "intermediate",
+    "tags": ["cardiovascular", "chronic"]
+  },
+  {
+    "id": "medical-2",
+    "word": "Diabetes",
+    "definition": "糖尿病",
+    "category": "endocrinology",
+    "pronunciation": "/ˌdaɪəˈbiːtiːz/",
+    "example": "Type 2 diabetes is often linked to lifestyle factors.",
+    "difficulty": "beginner",
+    "tags": ["metabolic", "chronic"]
+  },
+  {
+    "id": "medical-3",
+    "word": "Pneumonia",
+    "definition": "肺炎",
+    "category": "pulmonology",
+    "pronunciation": "/nuːˈmoʊniə/",
+    "example": "Bacterial pneumonia requires antibiotic treatment.",
+    "difficulty": "intermediate",
+    "tags": ["respiratory", "infection"]
+  },
+  {
+    "id": "medical-4",
+    "word": "Myocardial Infarction",
+    "definition": "心肌梗死",
+    "category": "cardiology",
+    "pronunciation": "/ˌmaɪoʊˈkɑrdiəl ɪnˈfɑrkʃən/",
+    "example": "Myocardial infarction is commonly known as a heart attack.",
+    "difficulty": "advanced",
+    "tags": ["cardiovascular", "emergency"]
+  },
+  {
+    "id": "medical-5",
+    "word": "Anesthesia",
+    "definition": "麻醉",
+    "category": "anesthesiology",
+    "pronunciation": "/ˌænəsˈθiːziə/",
+    "example": "General anesthesia is used for major surgeries.",
+    "difficulty": "intermediate",
+    "tags": ["surgery", "procedure"]
+  },
+  {
+    "id": "medical-6",
+    "word": "Antibiotic",
+    "definition": "抗生素",
+    "category": "pharmacology",
+    "pronunciation": "/ˌæntibaɪˈɑtɪk/",
+    "example": "Antibiotics are effective against bacterial infections.",
+    "difficulty": "beginner",
+    "tags": ["medication", "treatment"]
+  },
+  {
+    "id": "medical-7",
+    "word": "Diagnosis",
+    "definition": "诊断",
+    "category": "general",
+    "pronunciation": "/ˌdaɪəgˈnoʊsɪs/",
+    "example": "The diagnosis was confirmed by laboratory tests.",
+    "difficulty": "beginner",
+    "tags": ["assessment", "clinical"]
+  },
+  {
+    "id": "medical-8",
+    "word": "Prognosis",
+    "definition": "预后",
+    "category": "general",
+    "pronunciation": "/prɑgˈnoʊsɪs/",
+    "example": "The prognosis for early-stage cancer is generally good.",
+    "difficulty": "intermediate",
+    "tags": ["outcome", "prediction"]
+  },
+  {
+    "id": "medical-9",
+    "word": "Symptom",
+    "definition": "症状",
+    "category": "general",
+    "pronunciation": "/ˈsɪmptəm/",
+    "example": "Fever is a common symptom of infection.",
+    "difficulty": "beginner",
+    "tags": ["clinical", "assessment"]
+  },
+  {
+    "id": "medical-10",
+    "word": "Syndrome",
+    "definition": "综合征",
+    "category": "general",
+    "pronunciation": "/ˈsɪndroʊm/",
+    "example": "Down syndrome is a genetic disorder.",
+    "difficulty": "intermediate",
+    "tags": ["condition", "complex"]
+  },
+  {
+    "id": "medical-11",
+    "word": "Pathology",
+    "definition": "病理学",
+    "category": "pathology",
+    "pronunciation": "/pəˈθɑlədʒi/",
+    "example": "Pathology helps understand disease mechanisms.",
+    "difficulty": "advanced",
+    "tags": ["science", "disease"]
+  },
+  {
+    "id": "medical-12",
+    "word": "Radiology",
+    "definition": "放射学",
+    "category": "radiology",
+    "pronunciation": "/ˌreɪdiˈɑlədʒi/",
+    "example": "Radiology uses imaging to diagnose diseases.",
+    "difficulty": "intermediate",
+    "tags": ["imaging", "diagnostic"]
+  },
+  {
+    "id": "medical-13",
+    "word": "Oncology",
+    "definition": "肿瘤学",
+    "category": "oncology",
+    "pronunciation": "/ɑnˈkɑlədʒi/",
+    "example": "Oncology focuses on cancer treatment and research.",
+    "difficulty": "advanced",
+    "tags": ["cancer", "specialty"]
+  },
+  {
+    "id": "medical-14",
+    "word": "Neurology",
+    "definition": "神经学",
+    "category": "neurology",
+    "pronunciation": "/nʊˈrɑlədʒi/",
+    "example": "Neurology deals with disorders of the nervous system.",
+    "difficulty": "intermediate",
+    "tags": ["nervous system", "specialty"]
+  },
+  {
+    "id": "medical-15",
+    "word": "Cardiology",
+    "definition": "心脏病学",
+    "category": "cardiology",
+    "pronunciation": "/ˌkɑrdiˈɑlədʒi/",
+    "example": "Cardiology specializes in heart and blood vessel diseases.",
+    "difficulty": "intermediate",
+    "tags": ["heart", "specialty"]
+  },
+  {
+    "id": "medical-16",
+    "word": "Dermatology",
+    "definition": "皮肤病学",
+    "category": "dermatology",
+    "pronunciation": "/ˌdɜrməˈtɑlədʒi/",
+    "example": "Dermatology treats skin, hair, and nail conditions.",
+    "difficulty": "intermediate",
+    "tags": ["skin", "specialty"]
+  },
+  {
+    "id": "medical-17",
+    "word": "Orthopedics",
+    "definition": "骨科学",
+    "category": "orthopedics",
+    "pronunciation": "/ˌɔrθəˈpidɪks/",
+    "example": "Orthopedics deals with musculoskeletal disorders.",
+    "difficulty": "advanced",
+    "tags": ["bones", "muscles"]
+  },
+  {
+    "id": "medical-18",
+    "word": "Pediatrics",
+    "definition": "儿科学",
+    "category": "pediatrics",
+    "pronunciation": "/ˌpidiˈætrɪks/",
+    "example": "Pediatrics focuses on the health of infants and children.",
+    "difficulty": "intermediate",
+    "tags": ["children", "specialty"]
+  },
+  {
+    "id": "medical-19",
+    "word": "Psychiatry",
+    "definition": "精神病学",
+    "category": "psychiatry",
+    "pronunciation": "/saɪˈkaɪətri/",
+    "example": "Psychiatry treats mental health disorders.",
+    "difficulty": "intermediate",
+    "tags": ["mental health", "specialty"]
+  },
+  {
+    "id": "medical-20",
+    "word": "Emergency Medicine",
+    "definition": "急诊医学",
+    "category": "emergency",
+    "pronunciation": "/ɪˈmɜrdʒənsi ˈmɛdəsən/",
+    "example": "Emergency medicine provides immediate care for urgent conditions.",
+    "difficulty": "intermediate",
+    "tags": ["urgent", "critical"]
+  }
+]
